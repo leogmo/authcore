@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.cjl</groupId>
+  <artifactId>authcore</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20240102140020</lastUpdated>
+  </versioning>
+</metadata>

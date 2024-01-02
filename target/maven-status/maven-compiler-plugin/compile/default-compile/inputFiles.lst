@@ -1,0 +1,14 @@
+D:\Projetos\authcore\src\main\java\com\cjl\auth\domain\User.java
+D:\Projetos\authcore\src\main\java\com\cjl\auth\application\usecase\account\PassRecoverDTO.java
+D:\Projetos\authcore\src\main\java\com\cjl\auth\application\usecase\account\LoginResponseDTO.java
+D:\Projetos\authcore\src\main\java\com\cjl\auth\application\usecase\AccountRepository.java
+D:\Projetos\authcore\src\main\java\com\cjl\auth\application\usecase\account\LoginDTO.java
+D:\Projetos\authcore\src\main\java\com\cjl\auth\application\usecase\account\PasswordRecoveryUseCase.java
+D:\Projetos\authcore\src\main\java\com\cjl\auth\application\usecase\account\SignupDTO.java
+D:\Projetos\authcore\src\main\java\com\cjl\auth\application\usecase\account\SignupUseCase.java
+D:\Projetos\authcore\src\main\java\com\cjl\auth\application\usecase\account\UpdatePasswordUseCase.java
+D:\Projetos\authcore\src\main\java\com\cjl\auth\application\usecase\account\LoginUseCase.java
+D:\Projetos\authcore\src\main\java\com\cjl\auth\domain\Role.java
+D:\Projetos\authcore\src\main\java\com\cjl\auth\application\usecase\account\UpdatePasswordDTO.java
+D:\Projetos\authcore\src\main\java\com\cjl\auth\application\usecase\EmailSender.java
+D:\Projetos\authcore\src\main\java\com\cjl\auth\infraestructure\security\JwtTokenUtil.java

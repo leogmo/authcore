@@ -16,7 +16,7 @@ public class UserTests {
 		SignupDTO dto = new SignupDTO();
 		dto.setPassword("109148");
 		
-		User user = new User(dto);
+		User user = new User(dto, 1L);
 		
 		assertTrue(user.matchesPassword("109148"));
 	}
@@ -26,7 +26,7 @@ public class UserTests {
 		SignupDTO dto = new SignupDTO();
 		dto.setPassword("109148");
 		
-		User user = new User(dto);
+		User user = new User(dto, 1L);
 		
 		user.updatePassword("556622");
 		

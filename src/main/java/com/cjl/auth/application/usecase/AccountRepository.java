@@ -1,13 +1,12 @@
 package com.cjl.auth.application.usecase;
 
-import com.cjl.auth.application.usecase.account.SignupDTO;
-import com.cjl.auth.domain.User;
-
 import java.util.Optional;
+
+import com.cjl.auth.domain.User;
 
 public interface AccountRepository {
     Optional<User> findByEmail(String username);
-    User signup(SignupDTO signupDTO) throws Exception;
+    User signup(User user) throws Exception;
 
     void save(User user) throws Exception;
 }
